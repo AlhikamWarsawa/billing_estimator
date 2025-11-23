@@ -1,11 +1,17 @@
-# ZygmaCore Billing Estimator
+<h1 align="center">ZygmaCore Billing Estimator</h1>
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-![Logo](assets/zygmacore.jpeg)
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg" />
+  <img src="https://img.shields.io/badge/status-active-brightgreen.svg" />
+</p>
 
-**A Python CLI tool to estimate SaaS-style billing for teams in seconds.**
+<p align="center">
+  <img src="assets/zygmacore.jpeg" alt="Logo" width="180">
+</p>
 
+<h3 align="center">
+    A Python CLI tool to estimate SaaS-style billing for teams in seconds.
+</h3>
 ---
 
 ## 📘 About The Project
