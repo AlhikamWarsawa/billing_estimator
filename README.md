@@ -12,6 +12,7 @@
 <h3 align="center">
     A Python CLI tool to estimate SaaS-style billing for teams in seconds.
 </h3>
+
 ---
 
 ## 📘 About The Project
